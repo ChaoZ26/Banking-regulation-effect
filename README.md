@@ -1,2 +1,7 @@
-# anking-regulation-effect
+# Banking-regulation-effect
 This project is to estimate the announcement effect of Volcker Rule (new banking  regulation in US) on US banks
+More specifically, analyze:
+(i) Did the banks decrease their trading assets after the announcement of the new regulation?
+(ii) If they responded to the regulation, which banks responded most and which banks least? 
+Why?
+(iii) Remember robustness, and how should banks or regulators use these results?
